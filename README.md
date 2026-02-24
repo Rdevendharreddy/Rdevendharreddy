@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Devendhar</h1>
+<h1 align="center">Hi 👋 I'm R.Devendhar Reddy</h1>
 
 <p align="center">
 Full Stack Developer | UI/UX Designer | AI & Automation Explorer
@@ -19,7 +19,7 @@ Full Stack Developer | UI/UX Designer | AI & Automation Explorer
 ## 📫 How to reach me:
 
 <p>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:reddygariganeshreddy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/">
