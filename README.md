@@ -15,13 +15,9 @@ I’m guided by curiosity and creativity, always exploring new possibilities in 
 ## 📫 How to reach me:
 
 <p>
-  <a href="mailto:reddygariganeshreddy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="tel:+911234567890">+91 9391321656</a>
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+[![Phone](https://img.shields.io/badge/📞 +91 9391321656-FFA500?style=for-the-badge&labelColor=FFA500&color=FFA500)](tel:+919391321656)
 
 </p>
 
