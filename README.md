@@ -1,4 +1,4 @@
-# Hi 👋 I'm Devendhar
+# Hi 👋 I'm R.Devendhar Reddy
 
 <p align="center">
   <b>Full Stack Developer | UI/UX Enthusiast | AI & Automation Explorer</b>
