@@ -8,9 +8,9 @@ Full Stack Developer | UI/UX Designer | AI & Automation Explorer
 
 ## 🙋‍♂️ About Me:
 
-I’m deeply passionate about Computer Science, especially Artificial Intelligence and Machine Learning. I enjoy creating smart, practical digital experiences that make everyday challenges feel simple. Turning complex ideas into clean, user friendly solutions is what excites me most. I rely on Python and React—a perfect pair for building powerful, full‑stack applications that look great and perform even better.
+I’m deeply passionate about Computer Science, especially Artificial Intelligence and Machine Learning. I enjoy creating smart, practical digital experiences that make everyday challenges feel simple. Turning complex ideas into clean, user friendly solutions is what excites me most. I rely on Python and React a perfect pair for building powerful, full‑stack applications that look great and perform even better.
 
-I’m guided by curiosity and creativity, always exploring new possibilities in AI, automation, and emerging tech. My aim is to design technology that blends logic, design, and empathy, making life easier while inspiring those who use it. For me, great technology doesn’t just solve problems—it connects people and sparks imagination.
+I’m guided by curiosity and creativity, always exploring new possibilities in AI, automation, and emerging tech. My aim is to design technology that blends logic, design, and empathy, making life easier while inspiring those who use it. For me, great technology doesn’t just solve problems it connects people and sparks imagination.
 
 ## 📫 How to reach me:
 
