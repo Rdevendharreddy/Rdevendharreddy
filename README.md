@@ -8,12 +8,12 @@ Full Stack Developer | UI/UX Designer | AI & Automation Explorer
 
 ## 🙋‍♂️ About Me:
 
-- 🎓 3rd Year Computer Science Student  
-- 🎨 Passionate about UI/UX & clean frontend design  
-- ⚙️ Building full-stack apps using React & Python  
-- 🤖 Exploring AI and Automation systems  
-- 🚀 Focused on real-world problem solving  
-
+I’m a CSE student specializing in AI & ML, passionate about building intelligent and practical solutions.
+I love turning complex problems into simple, user-friendly experiences through code.
+React and Python are my playgrounds for creating full-stack applications that work and feel seamless.
+I enjoy exploring AI, automation, and emerging technologies to solve real-world challenges.
+Driven by curiosity and creativity, I aim to craft software that truly makes an impact.
+Always learning, experimenting, and building — I believe the best tech combines design, logic, and empathy.
 ---
 
 ## 📫 How to reach me:
@@ -56,11 +56,6 @@ Full Stack Developer | UI/UX Designer | AI & Automation Explorer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=teja16asv&theme=dark&hide_border=true"/>
 </p>
 
----
 
-## 📌 Current Focus:
 
-- 📚 Strengthening DSA
-- 🌐 Building full-stack projects
-- 🤖 Creating AI-powered applications
-- 🎯 Preparing for product-based company placements
+
