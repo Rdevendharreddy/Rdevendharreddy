@@ -21,9 +21,7 @@ I’m guided by curiosity and creativity, always exploring new possibilities in 
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="tel:+911234567890">+91 12345 67890</a>
-  <img <img src="https://cdn-icons-png.flaticon.com/512/597/597177.png" 
-     alt="Contact Icon" width="100"></a>
+  <a href="tel:+911234567890">+91 9391321656</a>
 
 </p>
 
