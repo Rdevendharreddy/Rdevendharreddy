@@ -11,7 +11,7 @@ _
 I’m a Computer Science enthusiast specializing in AI & ML, passionate about creating intelligent solutions that make real-world problems effortless. I love turning complex ideas into seamless, user-friendly experiences through clean, efficient code. Python and React are my go-to tools for crafting full-stack applications that not only perform flawlessly but feel intuitive.
 
 Exploring AI, automation, and emerging technologies fuels my curiosity, as I thrive on transforming innovation into impactful solutions. Driven by creativity and a desire to make a difference, I aim to build software that perfectly blends logic, design, and empathy. Always learning, experimenting, and building, I believe the best technology is smart, elegant, and meaningful.
----
+-
 
 ## 📫 How to reach me:
 
