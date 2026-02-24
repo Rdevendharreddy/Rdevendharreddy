@@ -1,43 +1,77 @@
 # Hi 👋 I'm Devendhar
 
-I design and build modern web applications with a focus on clean UI/UX and intelligent automation.
+<p align="center">
+  <b>Full Stack Developer | UI/UX Enthusiast | AI & Automation Explorer</b>
+</p>
 
 ---
 
-## 👨‍💻 What I Build
-• Responsive user interfaces with HTML, CSS & React  
-• User-centered UI/UX designs  
-• Backend logic using Python  
-• AI & automation-driven solutions  
-• Database systems using MySQL & MongoDB  
+## 👨‍💻 About Me
 
----
+I design and build modern web applications with a strong focus on clean UI/UX and intelligent automation.
 
-## 🎨 UI/UX Approach
-I believe good design is:
-- Simple
-- Clear
-- User-friendly
-- Problem-solving focused
+- 🎨 Crafting responsive interfaces
+- ⚙️ Building backend logic with Python
+- 🤖 Exploring AI & automation systems
+- 🗄️ Working with SQL & NoSQL databases
 
 ---
 
 ## 🛠 Tech Stack
 
-Frontend: HTML | CSS | React  
-Programming: Python  
-Databases: MySQL | MongoDB  
-Tools: Git | GitHub  
-Interests: AI | Automation | Vibecoding  
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### 🧠 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+---
+
+## 🎨 UI/UX Philosophy
+
+- Simple
+- Clean
+- User-focused
+- Problem-solving driven
 
 ---
 
 ## 🚀 Current Focus
+
 - Strengthening DSA
-- Building full-stack projects
-- Creating AI-powered applications
+- Building scalable full-stack applications
+- Developing AI-powered automation tools
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teja16asv&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=teja16asv&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🎯 Career Goal
-To become a Full Stack + AI Engineer who builds scalable and user-focused products.
+
+To become a Full Stack + AI Engineer building scalable, user-centered products.
