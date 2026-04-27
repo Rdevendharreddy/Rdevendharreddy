@@ -60,16 +60,6 @@ I’m guided by curiosity and creativity, always exploring new possibilities in 
 
 ---
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teja16asv&show_icons=true&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teja16asv&theme=dark&hide_border=true"/>
-</p>
-
 
 
 
