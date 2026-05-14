@@ -1,77 +1,86 @@
-<h1 align="center">Hi, I'm R. Devendhar Reddy 👋</h1>
+<h1 align="center">Hi 👋, I'm R. Devendhar Reddy</h1>
+
+<h3 align="center">
+Data Analytics • Python Developer • AI & Automation
+</h3>
 
 <p align="center">
-  <strong>Data Analytics • Python Developer • AI & Automation</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=950&lines=AI+%26+ML+Student;Python+Developer;Full+Stack+Developer;AI+Enthusiast;Python+%7C+HTML+%7C+CSS+%7C+JavaScript;Pandas+%7C+NumPy+%7C+Matplotlib;APIs+%7C+SQL+%7C+MongoDB;GitHub+%7C+Docker+%7C+Power+BI" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=483D8B&center=true&vCenter=true&width=900&lines=AI+%26+ML+Student;Python+Developer;Full+Stack+Learner;AI+Automation+Enthusiast;React+%7C+Python+%7C+JavaScript" />
+  <img src="https://komarev.com/ghpvc/?username=Rdevendharreddy&label=Profile%20Views&color=6A5ACD&style=for-the-badge"/>
 </p>
 
+---
+
+## 🙋‍♂️ About Me
+
+- 🎓 AI & ML Student passionate about building real-world intelligent systems
+- 💻 Focused on Python, Full Stack Development, AI Automation & Data Analytics
+- 🚀 Exploring Artificial Intelligence, APIs, Cloud & Emerging Technologies
+- 📊 Skilled in React, SQL, MongoDB, Power BI & Data Visualization
+- ⚡ Love turning complex ideas into clean and user-friendly solutions
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
-  <!-- Light Golden Yellow -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=483D8B&center=true&vCenter=true&width=900&repeat=true&lines=Hello%20%F0%9F%91%8B%2C%20I'm%20R.Devendhar%20Reddy%3BData%20Analytics%3BFullstack%20Developer%3BAI%20Enthusiast%3BPython%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript%3BPandas%20%7C%20NumPy%20%7C%20Matplotlib%3BAPIs%20%7C%20SQL%20%7C%20MongoDB%3BGitHub%20%7C%20Docker%20%7C%20Power%20BI" alt="Typing SVG"/>
-</p>
-</p>
 
-</p>
-
-
-</p>
-
-## 🙋‍♂️ About Me:
-
-I’m deeply passionate about Computer Science, especially Artificial Intelligence and Machine Learning. I enjoy creating smart, practical digital experiences that make everyday challenges feel simple. Turning complex ideas into clean, user friendly solutions is what excites me most. I rely on Python and React a perfect pair for building powerful, full‑stack applications that look great and perform even better.
-
-I’m guided by curiosity and creativity, always exploring new possibilities in AI, automation, and emerging tech. My aim is to design technology that blends logic, design, and empathy, making life easier while inspiring those who use it. For me, great technology doesn’t just solve problems it connects people and sparks imagination.
-
-
-
-## 📫 How to reach me:
-
-<p>
- <!-- Contact Number at the top with orange badge -->
-<a href="tel:+919391321656">
-  <img src="https://img.shields.io/badge/Contact-FFA500?style=for-the-badge&logo=phone&logoColor=white"/>
-</a>
-
-<!-- Email Badge -->
 <a href="mailto:reddygariganeshreddy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- LinkedIn Badge -->
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rdevendharreddy">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🛠 Tech Stack:
+## 🛠 Tech Stack
 
-<p>
+<p align="center">
+
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 </p>
 
 ---
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rdevendharreddy&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rdevendharreddy&theme=tokyonight" height="180em"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rdevendharreddy&show_icons=true&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rdevendharreddy&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdevendharreddy&layout=compact&theme=tokyonight"/>
+</p>
 
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Rdevendharreddy/Rdevendharreddy/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
