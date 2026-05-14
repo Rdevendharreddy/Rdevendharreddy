@@ -21,6 +21,10 @@ I’m deeply passionate about Computer Science, especially Artificial Intelligen
 
 I’m guided by curiosity and creativity, always exploring new possibilities in AI, automation, and emerging tech. My aim is to design technology that blends logic, design, and empathy, making life easier while inspiring those who use it. For me, great technology doesn’t just solve problems it connects people and sparks imagination.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdevendharreddy&layout=compact&theme=tokyonight"/>
+</p>
+
 ## 📫 How to reach me:
 
 <p>
@@ -66,7 +70,5 @@ I’m guided by curiosity and creativity, always exploring new possibilities in 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rdevendharreddy&theme=tokyonight" height="180em"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdevendharreddy&layout=compact&theme=tokyonight"/>
-</p>
+
 
