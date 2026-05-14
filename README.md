@@ -80,7 +80,8 @@ Data Analytics • Python Developer • AI & Automation
 
 ## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://github.com/Rdevendharreddy/Rdevendharreddy/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+## 🐍 Contribution Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rdevendharreddy/Rdevendharreddy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
