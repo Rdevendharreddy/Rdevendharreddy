@@ -78,7 +78,7 @@ Data Analytics • Python Developer • AI & Automation
 
 ---
 
-## 🐍 Contribution Graph
+---
 
 ## 🐍 Contribution Graph
 
