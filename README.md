@@ -85,3 +85,29 @@ Data Analytics • Python Developer • AI & Automation
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rdevendharreddy/Rdevendharreddy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Rdevendharreddy
+          outputs: dist/github-contribution-grid-snake.svg
+          
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
