@@ -1,8 +1,13 @@
+<h1 align="center">Hi, I'm R. Devendhar Reddy 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?<img
-  src="https://readme-typing-svg.herokuapp.com?<img
-  src="https://readme-typing-svg.herokuapp.com?<h1 align="center">Hi, I'm R. Devendhar Reddy 👋</h1>
-<p align="center"><strong>Data Analytics • python Developer • AI&automation</strong></p>
+  <strong>Data Analytics • Python Developer • AI & Automation</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=483D8B&center=true&vCenter=true&width=900&lines=AI+%26+ML+Student;Python+Developer;Full+Stack+Learner;AI+Automation+Enthusiast;React+%7C+Python+%7C+JavaScript" />
+</p>
+
 
 <p align="center">
   <!-- Light Golden Yellow -->
@@ -21,9 +26,7 @@ I’m deeply passionate about Computer Science, especially Artificial Intelligen
 
 I’m guided by curiosity and creativity, always exploring new possibilities in AI, automation, and emerging tech. My aim is to design technology that blends logic, design, and empathy, making life easier while inspiring those who use it. For me, great technology doesn’t just solve problems it connects people and sparks imagination.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdevendharreddy&layout=compact&theme=tokyonight"/>
-</p>
+
 
 ## 📫 How to reach me:
 
