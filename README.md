@@ -66,5 +66,7 @@ I’m guided by curiosity and creativity, always exploring new possibilities in 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rdevendharreddy&theme=tokyonight" height="180em"/>
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdevendharreddy&layout=compact&theme=tokyonight"/>
+</p>
 
