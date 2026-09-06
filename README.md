@@ -4,7 +4,6 @@
   &text=%3E_%20YOUR%20NAME&fontSize=38
   &desc=Your+Title+Here&descColor=8AFF57
   &animation=fadeIn" />
-
 </div>
 <img src="https://readme-typing-svg.demolab.com
   ?font=Fira+Code&size=18&color=CAFF3C
