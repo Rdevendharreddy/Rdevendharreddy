@@ -1,85 +1,81 @@
-<h1 align="center">Hi 👋, I'm R. Devendhar Reddy</h1>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api
+  ?type=shark&color=0A0F08&fontColor=CAFF3C
+  &text=%3E_%20YOUR%20NAME&fontSize=38
+  &desc=Your+Title+Here&descColor=8AFF57
+  &animation=fadeIn" />
+</div>
+<img src="https://readme-typing-svg.demolab.com
+  ?font=Fira+Code&size=18&color=CAFF3C
+  &center=true&vCenter=true&width=820
+  &lines=$ whoami+%E2%86%92+Your+role;
+  $ skills+%E2%86%92+Tech1+%7C+Tech2;
+  $ cat+open-to.txt+%E2%86%92+Role+here" />
 
-<h3 align="center">
-Data Analytics • Python Developer • AI & Automation
-</h3>
+  ## `> whoami`
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=950&lines=AI+%26+ML+Student;Python+Developer;Full+Stack+Developer;AI+Enthusiast;Python+%7C+HTML+%7C+CSS+%7C+JavaScript;Pandas+%7C+NumPy+%7C+Matplotlib;APIs+%7C+SQL+%7C+MongoDB;GitHub+%7C+Docker+%7C+Power+BI" alt="Typing SVG"/>
-</p>
+Your 1-2 sentence intro here.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rdevendharreddy&label=Profile%20Views&color=6A5ACD&style=for-the-badge"/>
-</p>
+```bash
+$ cat .profile
 
----
+ROLE     =  Your Role Title
+EXP      =  X+ years
+DOMAIN   =  Area1  |  Area2  |  Area3
+STACK    =  Tech1  |  Tech2  |  Tech3
+OPEN_TO  =  Senior / Staff Engineering roles
+```
+<details open>
+<summary><b>&#9654; Project Name &mdash; Tagline</b></summary>
 
-## 🙋‍♂️ About Me
+One sentence description.
 
-- 🎓 AI & ML Student passionate about building real-world intelligent systems
-- 💻 Focused on Python, Full Stack Development, AI Automation & Data Analytics
-- 🚀 Exploring Artificial Intelligence, APIs, Cloud & Emerging Technologies
-- 📊 Skilled in React, SQL, MongoDB, Power BI & Data Visualization
-- ⚡ Love turning complex ideas into clean and user-friendly solutions
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Tech1 &middot; Tech2 &middot; Tech3 |
+| **Scale** | Who uses it / how many users |
+| **Impact** | Key outcome or metric |
+| **Repo** | [View](https://github.com/HANDLE/repo) |
 
----
+What YOU personally designed or built.
 
-## 📫 Connect With Me
+</details>
+<div align="center">
 
-<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api
+  ?username=YOUR_HANDLE&show_icons=true
+  &hide_border=true&title_color=CAFF3C
+  &icon_color=8AFF57&text_color=E8F5E1
+  &bg_color=0A0F08" />
 
-<a href="mailto:reddygariganeshreddy@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/
+  ?user=YOUR_HANDLE&hide_border=true
+  &background=0A0F08&stroke=CAFF3C
+  &ring=8AFF57&fire=CAFF3C
+  &currStreakLabel=CAFF3C" />
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<!-- contribution timeline card -->
+<img src="https://github-profile-summary-cards.vercel.app
+  /api/cards/profile-details
+  ?username=YOUR_HANDLE&theme=2077" width="100%" />
 
-<a href="https://github.com/Rdevendharreddy">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</div>
 
-</p>
+## `> cat current-focus.yaml`
 
----
+```yaml
+learning:
+  - What you're currently studying
+  - New tech or concept you're exploring
 
-## 🛠 Tech Stack
+building:
+  - Project 1  # short description
+  - Project 2  # short description
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rdevendharreddy&show_icons=true&theme=tokyonight"/>
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rdevendharreddy&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdevendharreddy&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
----
-
+open_to:
+  - Type of role you want
+  - Industry or environment preference
+```
 
 
 
