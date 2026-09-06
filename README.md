@@ -4,6 +4,7 @@
   &text=%3E_%20YOUR%20NAME&fontSize=38
   &desc=Your+Title+Here&descColor=8AFF57
   &animation=fadeIn" />
+
 </div>
 <img src="https://readme-typing-svg.demolab.com
   ?font=Fira+Code&size=18&color=CAFF3C
@@ -12,7 +13,9 @@
   $ skills+%E2%86%92+Tech1+%7C+Tech2;
   $ cat+open-to.txt+%E2%86%92+Role+here" />
 
-  ## `> whoami`
+
+ 
+ ## `> whoami`
 
 Your 1-2 sentence intro here.
 
